@@ -1,4 +1,4 @@
-package testsystem;
+package org.wsk.testsystem;
 import java.*;
 import javax.*;
 import sun.*;

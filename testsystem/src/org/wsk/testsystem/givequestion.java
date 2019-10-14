@@ -1,4 +1,4 @@
-package testsystem;
+package org.wsk.testsystem;
 
 public class givequestion {
 	qusetionlist list;

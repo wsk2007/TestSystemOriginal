@@ -1,4 +1,4 @@
-package testsystem;
+package org.wsk.testsystem;
 import java.awt.*;
 import java.awt.event.*;
 
