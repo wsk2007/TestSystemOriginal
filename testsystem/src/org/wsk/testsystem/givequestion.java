@@ -6,7 +6,7 @@ public class givequestion {
 	
 	public givequestion(qusetionlist qlist){
 		list = qlist;
-		num = 1;
+		num = 0;
 	}
 	
 	public qusetion nextqusetion(){
